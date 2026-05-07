@@ -1,2 +1,9 @@
-# Task-Queue-System
-a task queue system, accepts multipart/form-data save to redis and process tasks asynchronously with bullmq 
+What it does (one sentence)
+
+Tech stack
+
+How to run it locally (Docker command)
+
+One challenge you solved
+
+One thing you’d improve
